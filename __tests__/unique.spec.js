@@ -1,3 +1,5 @@
+// Find the first unique letter in a string
+
 const unique = require('../lib/unique.js');
 
 describe('stringCompress', () => {
